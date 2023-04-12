@@ -1,0 +1,12 @@
+.card {
+    background-color:#F1F9F9;
+    width: 20rem;
+    display : flex;
+    }
+footer {
+    padding-left: 7rem;
+    padding-right: 7rem;
+}
+.more-content {
+    display: none;
+}
